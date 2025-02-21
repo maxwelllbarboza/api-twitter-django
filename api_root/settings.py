@@ -86,8 +86,12 @@ DATABASES = {
         'PASSWORD': 'cqFkuxvz7U4H',
         'HOST': 'ep-odd-pine-a41t4v5a-pooler.us-east-1.aws.neon.tech',
         'PORT': '5432',
+        'OPTIONS': {
+            'sslmode': 'require',
+        },
     }
 }
+
 
 
 # Password validation
