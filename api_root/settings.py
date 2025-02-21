@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'api_root.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'clone_twitter',
-        'USER': 'postgres',
-        'PASSWORD': '123456',
-        'HOST': 'localhost',
+        'NAME': 'db-pessoal',
+        'USER': 'maxwellbarboza',
+        'PASSWORD': 'cqFkuxvz7U4H',
+        'HOST': 'dd-pine-a41t4v5a-pooler.us-east-1.aws.neon.tech',
         'PORT': '5432',
     }
 }
