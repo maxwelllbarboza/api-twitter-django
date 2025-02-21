@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'db-pessoal',
         'USER': 'maxwellbarboza',
         'PASSWORD': 'cqFkuxvz7U4H',
-        'HOST': 'dd-pine-a41t4v5a-pooler.us-east-1.aws.neon.tech',
+        'HOST': 'ep-odd-pine-a41t4v5a-pooler.us-east-1.aws.neon.tech',
         'PORT': '5432',
     }
 }
